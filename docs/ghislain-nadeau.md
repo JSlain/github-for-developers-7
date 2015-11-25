@@ -5,3 +5,5 @@
 **Location:** Quebec
 
 **Hobby:** Playing Guitar
+
+**Favotire Color:** Black
