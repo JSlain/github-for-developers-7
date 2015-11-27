@@ -7,3 +7,5 @@
 **Hobby:** Playing Guitar
 
 **Favotire Color:** Black
+
+More infos...
